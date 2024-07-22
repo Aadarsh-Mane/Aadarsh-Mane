@@ -1,6 +1,6 @@
-## Hello 
+# Hello I'M AADARSH MANE AND A RONALDO FAN
 
-Here's a fun example of generating a personalized bio using JavaScript:
+
 
 ```javascript
 const moodEmojis = {
