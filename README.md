@@ -1,14 +1,9 @@
 # Hello I'M AADARSH MANE AND A RONALDO FAN
+## Code like Ronaldo plays: with passion, precision, and a relentless drive for excellence
 
 
 
 ```javascript
-const moodEmojis = {
-  passionate: '🔥',
-  freelancing: '💼',
-  developed: '⚽',
-  coding: '💻'
-};
 
 const bioDetails = {
   passionate: "I'm a passionate Backend Developer with a strong proficiency in Node.js.",
@@ -30,28 +25,6 @@ const learningGoals = {
   apiDevelopment: "Enhancing my knowledge of API development to create and manage APIs more effectively."
 };
 
-function generateBio() {
-  return `
-    # 💫 About Me:
-    - 🔧 ${bioDetails.passionate} ${moodEmojis.passionate}
-    - 🚀 ${bioDetails.freelancing} ${moodEmojis.freelancing}
-    - ⚽ ${bioDetails.developed} ${moodEmojis.developed}
-    - 💻 ${bioDetails.coding} ${moodEmojis.coding}
-
-    ## Currently Working On:
-    - ${currentProjects.freelance}
-    - ${currentProjects.backend}
-    - ${currentProjects.footballAPI}
-    - ${currentProjects.extension}
-
-    ## Currently Learning:
-    - ${learningGoals.flutter}
-    - ${learningGoals.nodeBestPractices}
-    - ${learningGoals.apiDevelopment}
-  `;
-}
-
-console.log(generateBio());
 
 ```
 
